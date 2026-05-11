@@ -289,5 +289,4 @@ while True:
             print("\nInvalid Input! Please enter a valid choice.")
 
     except ValueError:
-
         print("\nError: Please enter a valid number.")
